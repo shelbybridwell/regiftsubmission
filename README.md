@@ -1,5 +1,5 @@
-# regiftsubmission
- <p><a href="https://regifter.herokuapp.com/">ReGift</a>
+# regiftersubmission
+ <p><a href="https://regifter.herokuapp.com/">ReGifter</a>
     <br><a href="https://github.com/tierney03/OneStop](https://github.com/KarenAdkins84/TheShop)">repo</a>    
      <br><a href="https://shelbybridwell.github.io/Professional_Portforlio/">portfolio</a>
      <br><a href="https://github.com/shelbybridwell?tab=repositories">my repos</a>
